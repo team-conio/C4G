@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "464780303011",
+    "firebase_url": "https://c4gfirebaseproject.firebaseio.com",
+    "project_id": "c4gfirebaseproject",
+    "storage_bucket": "c4gfirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464780303011:android:2cf65421b638493d",
+        "android_client_info": {
+          "package_name": "com.lolin.deemon_face.c4g"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464780303011-utk3j6d336k875p5o02vih185k0ph7va.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lolin.deemon_face.c4g",
+            "certificate_hash": "5c8486ac729d9c110c024190c683383d850c5b47"
+          }
+        },
+        {
+          "client_id": "464780303011-clqr948cpc7qbij9t8qcjkhdr4jfpgel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_5yvDXGvA-LseqkNzoMzxeFRGeHx2bPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464780303011-clqr948cpc7qbij9t8qcjkhdr4jfpgel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
